@@ -1,6 +1,7 @@
 ipynb_checkpoints/
 logs/
 data/
+models/
 ukcp18-uk-land-region-hires/
 TEST_SCRIPT.ipynb
 
