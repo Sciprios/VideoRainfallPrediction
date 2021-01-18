@@ -1,9 +1,11 @@
 ipynb_checkpoints/
 logs/
 data/
+data-backup/
 models/
 ukcp18-uk-land-region-hires/
 TEST_SCRIPT.ipynb
+plotting.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
